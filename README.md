@@ -2,9 +2,9 @@
 It is a CRUD App between users and tasks.
 
 
-# Install node modules 
-# create config folder 
-## create dev.env inside config 
+#  Install node modules 
+#  Create config folder 
+## Create dev.env inside config 
 ## Inside dev.env
 
   PORT = Your PORT NUMBER
