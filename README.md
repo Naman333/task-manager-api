@@ -1,12 +1,13 @@
 # task-manager-api
-It is a CRUD App between users and tasks.
+## It is a CRUD App between users and tasks.
 
 
 # Install node modules 
 # create config folder 
-  dev.env  --> file name
-  
-  *\ PORT
-  SENDGRID_API_KEY
-  MONGODB_URL
-  JWT_SECRET /*
+## create dev.env inside config 
+## Inside dev.env
+
+  ### PORT = Your PORT NUMBER
+  ### SENDGRID_API_KEY = Your API Key
+  ### MONGODB_URL = Your MongoDB URL
+  ### JWT_SECRET = Your secret key
